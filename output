@@ -1,0 +1,77 @@
+/tmp/Uj31HCEOE1.o
+--------- Tic Tac Toe ----------
+
+
+* Instructions 
+
+	Player 1 sign = X
+	Player 2 sign = O
+	To exit from game, Enter -1
+
+
+* Cell Numbers on Board
+
+
+	  1  |  2  |  3
+	----------------
+	  4  |  5  |  6
+	----------------
+	  7  |  8  |  9
+
+
+
+> Press Enter to start...
+Player 1 [ X ] : 2
+|  X  |   
+	----------------
+	     |     |   
+	----------------
+	     |     |   
+
+
+
+Player 2 [ O ] : 1
+O  |  X  |   
+	----------------
+	     |     |   
+	----------------
+	     |     |   
+
+
+
+Player 1 [ X ] : 5
+O  |  X  |   
+	----------------
+	     |  X  |   
+	----------------
+	     |     |   
+
+
+
+Player 2 [ O ] : 7
+O  |  X  |   
+	----------------
+	     |  X  |   
+	----------------
+	  O  |     |   
+
+
+Player 1 [ X ] : 8
+O  |  X  |   
+	----------------
+	     |  X  |   
+	----------------
+	  O  |  X  |   
+
+
+	 *** Player 1 Won!! ***
+
+	 --- Game Over --- 
+
+* Menu
+
+Press 1 to Restart
+Press 0 for Exit
+
+Choice: 0
+:: Thanks for playing Tic Tac Toe game! :: 
